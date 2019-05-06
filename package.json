@@ -1,0 +1,16 @@
+{
+  "name": "modulo2_back_gobarber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "nunjucks": "^3.2.0"
+  }
+}
